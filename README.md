@@ -1,5 +1,3 @@
-# cpe_api
-
 # Vulnerability Assessment
 
 PowerShell-based vulnerability assessment and reporting workflow using the
