@@ -37,8 +37,6 @@ foreach ($Directory in @(
 
 Write-Host 'Repository directories are ready.' -ForegroundColor Green
 
-cd "C:\Users\miche\OneDrive\Desktop\Projects\cve_api"
-
 New-Item `
     -Path '.\Modules' `
     -ItemType Directory `
